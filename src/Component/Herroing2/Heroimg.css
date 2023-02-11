@@ -1,0 +1,86 @@
+.hero-img {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 60vh;
+    position: relative;
+}
+.hero-img ::before {
+    content: "";
+    background-image: url("https://media.istockphoto.com/id/1404125129/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?b=1&s=170667a&w=0&k=20&c=FC2JnaM2aJjvTYsmRHAqzM72CfHqF5UpLqdbWYlJ4gQ=");
+    background-size: cover;
+    background-position: center top;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.heading {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.heading h1{
+    font-size: 2.4rem;
+    text-align: center;
+}
+.heading p{
+    font-size: 1.4rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.btn{
+    padding: 15px 60px;
+    font-size: 1.50rem;
+    border: 1px solid #fff;
+    background-color: yellow;
+    font-weight: 600;
+    cursor: pointer;
+  color: #000;
+  border-radius: 5px;
+  box-shadow: rgba(228, 222, 222, 0.35) 0px 5px 15px; ;
+  }
+  
+.btn-light{
+    background: transparent;
+    color: #fff;
+    padding: 15px 60px;
+    font-size: 1.50rem;
+    border: 1px solid #fff;
+    font-weight: 600;
+    cursor: pointer;
+    margin:10px;
+    box-shadow: rgba(228, 222, 222, 0.35) 0px 5px 15px; ;
+    border-radius: 5px;
+    
+    }
+    .btn:hover{
+      background-color: aqua;
+      columns: #fff;
+      transition: 0.5s;
+    }
+    .btn-light:hover{
+        background-color: rgb(89, 93, 102);
+        transition: 0.25s;
+        /* opacity: 0.5; */
+    }
+
+@media screen and (max-width:1040px){
+    
+.btn{
+    padding: 8px 30px;
+   
+  }
+  .btn-light{
+    padding: 8px 30px;
+
+  }
+
+} 
+    
