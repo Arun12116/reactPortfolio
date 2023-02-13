@@ -22,7 +22,7 @@
 }
 
 .second-container {
-    width: 35vw;
+    width: 40vw;
     height: 70vh;
     
     border: 2px solid rgb(223, 214, 214);
@@ -34,7 +34,7 @@
 }
 
 .third-container {
-    width: 35vw;
+    width: 40vw;
     height: 70vh;
    
     border: 2px solid rgb(223, 214, 214);
@@ -46,7 +46,7 @@
 }
 
 .four-container {
-    width: 35vw;
+    width: 40vw;
     height: 70vh;
 
     border: 2px solid rgb(223, 214, 214);
@@ -174,45 +174,47 @@
 
 @media screen and (max-width:320px) {
     .Sub-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh;
 
     }
 
     .Card-container button {
         width: 15vw;
+       
         font-size: 0.90rem;
        
 
     }
 
     .second-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh;
 
 
     }
 
     .third-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh
     }
 
     .four-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh
     }
     .Card-container{
         height:auto;
     }
+    
 
 
 }
 
 @media screen and (max-width:375px) {
     .Sub-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh;
 
     }
 
@@ -223,20 +225,19 @@
     }
 
     .second-container {
-        width: 80vw;
-        height: 70vh;
-
+        width: 90vw;
+        height: 80vh
 
     }
 
     .third-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh
     }
 
     .four-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh
     }
     .Card-container{
         height:auto;
@@ -247,8 +248,8 @@
 
 @media screen and (max-width:425px) {
     .Sub-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh;
 
     }
 
@@ -259,20 +260,19 @@
     }
 
     .second-container {
-        width: 80vw;
-        height: 70vh;
-
+        width: 90vw;
+        height: 80vh
 
     }
 
     .third-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh
     }
 
     .four-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh
     }
     .Card-container{
         height:auto;
@@ -283,8 +283,8 @@
 
 @media screen and (max-width:768px) {
     .Sub-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh;
 
     }
 
@@ -296,20 +296,20 @@
     }
 
     .second-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh
 
 
     }
 
     .third-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh
     }
 
     .four-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh
     }
     .Card-container{
         height:auto;
@@ -320,8 +320,8 @@
 
 @media screen and (max-width:1024px) {
     .Sub-container {
-        width: 70vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh;
 
     }
 
@@ -334,24 +334,23 @@
     }
 
     .second-container {
-        width: 80vw;
-        height: 70vh;
-
+        width: 90vw;
+        height: 80vh
 
     }
 
     .third-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh
     }
 
     .four-container {
-        width: 80vw;
-        height: 70vh;
+        width: 90vw;
+        height: 80vh
     }
     .Card-container{
         height:auto;
     }
 
 
-}
+} 
