@@ -10,7 +10,7 @@
 
 .deatiles {
     width: 40%;
-    height: 75vh;
+    height: 80vh;
     border: 2px solid rgb(229, 229, 238);
     display: flex;
     justify-content: center;
@@ -27,8 +27,8 @@
 
 .name input {
     margin: 2% 0%;
-    width: 30vw;
-    height: 7vh;
+    width: 34vw;
+    height: 8vh;
     border-radius: 5px;
     text-align: center;
     /* display: flex; */
