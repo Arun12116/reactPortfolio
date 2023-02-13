@@ -40,7 +40,7 @@ const Cards = () => {
                 </div> <div className="third-container">
                     <div className="third-card-img">
                         <img src={pro3} alt="img" />
-                        <h1>Food Search Application</h1>
+                        <h1>Keep Notes Application</h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor enim modi dignissimos ea corrupti rerum ratione minima asperiores quo delectus aperiam placeat, doloremque similique velit nostrum, totam quia accusamus fuga.</p>
                     </div>
                     <div className="source-container">
@@ -53,7 +53,7 @@ const Cards = () => {
                 </div> <div className="four-container">
                     <div className="four-card-img">
                         <img src={pro4} alt="img" />
-                        <h1>Food Search Application</h1>
+                        <h1>Latest Movies Search Application</h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor enim modi dignissimos ea corrupti rerum ratione minima asperiores quo delectus aperiam placeat, doloremque similique velit nostrum, totam quia accusamus fuga.</p>
                     </div>
                     <div className="source-container">
